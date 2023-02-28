@@ -17,7 +17,7 @@ $LogFile = "$LogPath\$ScriptName.log"
 $MSIFile = ""
 $ArgumentList = @(
     "/i ""$MSIFile"""
-    "/qb"
+    "/qn"
     "/norestart"
     "/L*V ""$LogPath\$MSIFile.log"""
     #"Enter custom arguments here"
