@@ -1,2 +1,2 @@
 # Public
-Scripts for public consumption
+A collection of random scripts for public consumption
