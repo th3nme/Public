@@ -21,7 +21,7 @@ $ArgumentList = @(
     "/norestart"
     "/L*V ""$LogPath\$MSIFile.log"""
     #"Enter custom arguments here"
-    )
+)
 
 Start-Transcript $LogFile
 

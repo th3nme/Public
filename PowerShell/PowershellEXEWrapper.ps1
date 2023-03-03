@@ -18,7 +18,7 @@ $EXEFile = ""
 $ArgumentList = @(
     "/verysilent"
     "/norestart"
-    )
+)
 
 Start-Transcript $LogFile
 
